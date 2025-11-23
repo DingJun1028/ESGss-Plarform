@@ -1,0 +1,7 @@
+{
+  "name": "ESG Sunshine - Celestial Nexus v12",
+  "description": "A comprehensive ESG transformation platform featuring AI-driven decision making, gamified learning, carbon asset management, and the Sunshine Salon humanistic reading circle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
